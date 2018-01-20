@@ -2,4 +2,4 @@
 
 STUDENT LIST : <https://github.com/samarindamirinda/unidata/blob/master/student%20FKE>
 
-LECTURER LIST: <https://github.com/samarindamirinda/unidata/blob/dev/lecturer>
+LECTURER LIST: <https://github.com/samarindamirinda/unidata/blob/master/lecturer>
